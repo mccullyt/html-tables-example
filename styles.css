@@ -1,0 +1,36 @@
+
+html{height: 100vh;}
+body{height: 100vh; min-height:100%; width:80%; margin:auto;}
+
+td:hover{background-color: blueviolet;}
+
+table{margin: auto;}
+table{min-height: 70%;}
+table{border-collapse: collapse;}
+
+/* table{border: 2px yellow solid;} */
+
+th, td {padding:10px; text-align: center;}
+
+.spring{background-color: lightgreen;}
+
+.fall{background-color: lightcoral;}
+
+.empty{background-color:rgba(149, 151, 149, 0.9) ;}
+
+
+/* Debug Styles */
+html{background-color: navy;}
+
+body{background-color: aqua;}
+body{
+    background-image: url("images/pexels-oladimeji-ajegbile-2853664.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+
+/* table{background-color: pink;} */
+td{background-color: rgba(249, 251, 249, 0.9);}
+th{background-color: cadetblue;}
